@@ -5,7 +5,7 @@
 
 <p align="center">
 - 🌱 I’m currently learning Web Development <br>
-- 💬 Ask me about: Python, Java, Css, Html, Javascript <br>
+- 💬 Ask me about: Version control, Python, Java, Css, Html, Javascript <br>
 - 📫 How to reach me: nkosimlaba397@gmail.com <br>
 - ⚡ Fun fact about me: My stomach knows no limits, I can eat up to 10 times a day
 </p>
@@ -19,4 +19,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkosimlaba&show_icons=true&locale=en&layout=compact" alt="nkosimlaba" /></p>
 <br>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkosimlaba&" alt="nkosimlaba" /></p>
