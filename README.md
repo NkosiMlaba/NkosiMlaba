@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nkosikhona Mlaba </h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=F71A1A&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+there+%F0%9F%91%8B;I+am+Nkosikhona+Mlaba+%F0%9F%98%87;I+am+a+WeThinkCode_+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
 <h3 align="center">I’m interested in Software Development and Graphic Design</h3>
 <br>
 
@@ -19,3 +19,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkosimlaba&show_icons=true&locale=en&layout=compact" alt="nkosimlaba" /></p>
 <br>
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=F70000&center=true&vCenter=true&random=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%A4%97;Goodbye!👋+" alt="Typing SVG" /></a></h1>
