@@ -18,6 +18,8 @@
 <br>
 <h3 align="center" style="color: #1A15A;">🛠 Live Projects</h3>
 <p align="center">
+    <a href="https://nkosimlaba.github.io/Portfolio-website/pages/home.html">Portfolio Website</a>
+    <br>
     <a href="https://dynamic-resume-builder-with-ai.onrender.com/">Dynamic Resume Builder With AI</a>
     <br>
     <a href="https://expense-watcher-application.azurewebsites.net/">Expense Watcher</a>
