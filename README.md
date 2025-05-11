@@ -1,5 +1,5 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=F10A10A&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+there+%F0%9F%91%8B;I+am+Nkosikhona+Mlaba+%F0%9F%98%87;I+am+a+WeThinkCode_+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
-<h3 align="center">I’m interested in Software Development</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=F10A10A&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+there+%F0%9F%91%8B;I+am+Nkosikhona+Mlaba+%F0%9F%98%87;I+am+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
+<h3 align="center">I’m interested in Software Engineering</h3>
 
 <br>
 
@@ -11,22 +11,10 @@
 
 <p align="center">
 - 🌱 I’m currently learning Web Development <br>
-- 💬 Ask me about: Version control, Python, Java, Css, Html, Javascript <br>
+- 💬 Ask me about: Version control, Python, Java, C#, CSS, HTML, JavaScript <br>
 - ⚡ Fun fact about me: My stomach knows no limits, I can eat up to 10 times a day
 </p>
 
-<br>
-<h3 align="center" style="color: #1A15A;">🛠 Live Projects</h3>
-<p align="center">
-    <a href="https://nkosimlaba.github.io/Portfolio-website/pages/home.html">Portfolio Website</a>
-    <br>
-    <a href="https://dynamic-resume-builder-with-ai.onrender.com/">Dynamic Resume Builder With AI</a>
-    <br>
-    <a href="https://expense-watcher-application.azurewebsites.net/">Expense Watcher</a>
-    <br>
-    <a href="https://robo-arena-server.azurewebsites.net/">Robo Arena Server</a>
-    <br>
-</p>
 <br>
 
 <div align="center">
